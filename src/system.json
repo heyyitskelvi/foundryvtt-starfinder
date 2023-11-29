@@ -258,7 +258,7 @@
         "verified": "11.307",
         "maximum": 11
     },
-    "url": "https://github.com/foundryvtt-starfinder/foundryvtt-starfinder",
-    "manifest": "https://raw.githubusercontent.com/foundryvtt-starfinder/foundryvtt-starfinder/master/src/system.json",
-    "download": "https://github.com/foundryvtt-starfinder/foundryvtt-starfinder/releases/download/v0.25.2/sfrpg-v0.25.2.zip"
+    "url": "https://github.com/heyyitskelvi/foundryvtt-starfinder",
+    "manifest": "https://raw.githubusercontent.com/heyyitskelvi/foundryvtt-starfinder/master/src/system.json",
+    "download": "https://github.com/heyyitskelvi/foundryvtt-starfinder/releases/download/v0.25.2/sfrpg-v0.25.2.zip"
 }
